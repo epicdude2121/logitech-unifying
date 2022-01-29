@@ -1,0 +1,10 @@
+{
+	"application_title": {
+		"message": "Logitech Unifying",
+		"description": "The title of the application, displayed in the web store."
+	},
+	"application_description": {
+		"message": "This app was converted.", 
+		"description":"The description of the application, displayed in the web store."
+	}
+}
